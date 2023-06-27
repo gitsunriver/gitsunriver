@@ -73,7 +73,7 @@ Including framwork that said above, I have done 30 web site with Laravel, MERN, 
     <img src="https://badges.pufler.dev/gists/glistenstar?style=flat-square&color=black&logo=github">
   </a>
    -->
-   <img src="https://github-profile-trophy.vercel.app/?username=lievander&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+<!--    <img src="https://github-profile-trophy.vercel.app/?username=lievander&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" /> -->
 </div>
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
