@@ -55,10 +55,6 @@ Including framwork that said above, I have done 30 web site with Laravel, MERN, 
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
-<p align="center" style=" display: flex; align-items: center; justify-content: space-evenly; flex-wrap: nowrap; ">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lievander&count_private=true&show_icons=true&hide_title=true"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lievander&layout=compact&theme=vue" style="min-width:700px"/>
-</p>
 
 <br> 
 
